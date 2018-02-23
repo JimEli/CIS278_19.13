@@ -25,7 +25,8 @@ The program should read a postfix expression consisting of digits and operators 
 [Note: In step 2 above, if the operator is '/', the top of the stack is 2 and the next element in the stack is 8, then pop 2 into x, and pop 8 into y, evaluate 8 / 2 and push the result, 4 back onto the top of the stack. This note also applies to operator '-'.] 
 
 The arithmetic operations allowed in an expression are
-```text   + addition
+```text
+   + addition
    - subtraction
    * multiplication
    / division
