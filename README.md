@@ -2,7 +2,7 @@
 ## Exercise 19.13 
 ### Postfix Expression Evaluator
 
-Exercise 19.13 on page 836 – 837, Postfix Evaluation
+Exercise 19.13 on page 836 – 837, C++ How to Program, 10/e, Deitel
 
 Write a program that evaluates a valid postfix expression such as
 ```text
